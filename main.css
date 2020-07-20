@@ -10,6 +10,10 @@ h3,
 h4,
 h5,
 h6 {
+	font-family: 'Circular';
+}
+
+p, textarea {
 	font-family: 'DM Sans', sans-serif;
 }
 
@@ -236,10 +240,9 @@ span.rm-page-ref[data-tag] {
 	margin-left: 5px;
 	padding: 3px 8px;
 	line-height: 2em;
-	font-family: "Circular";
+	font-family: 'DM Sans', sans-serif;
 	border-radius: 4px;
 }
-
 
 span.rm-page-ref[data-tag="healthcheck"] {
 	background: #81D5ED;
