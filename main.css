@@ -10,7 +10,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Circular';
+	font-family: 'Circular' !important;
 }
 
 h1 {
@@ -21,8 +21,8 @@ h1 {
 	font-family: 'Circular';
 }
 
-textarea.rm-block-text {
-	font-family: 'DM Sans', sans-serif;
+.rm-block-text {
+	font-family: 'DM Sans', sans-serif !important;
 }
 
 .roam-block-container {
