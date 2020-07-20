@@ -13,10 +13,6 @@ h6 {
 	font-family: 'Circular';
 }
 
-p, textarea {
-	font-family: 'DM Sans', sans-serif;
-}
-
 h1 {
 	font-size: 3.052em;
 }
@@ -27,6 +23,7 @@ h1 {
 
 
 .roam-block-container {
+	font-family: 'DM Sans', sans-serif;
 	max-width: 1000px;
 }
 
