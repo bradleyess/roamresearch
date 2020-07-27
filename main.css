@@ -25,6 +25,10 @@ h1 {
 	font-family: 'DM Sans', sans-serif !important;
 }
 
+textarea .rm-block-input .dont-unfocus-block .rm-block-text {
+	max-width: 850px;
+}
+
 .roam-block-container {
 	font-family: 'DM Sans', sans-serif;
 	max-width: 1000px;
