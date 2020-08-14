@@ -290,7 +290,7 @@ span.rm-page-ref[data-tag="Literature Notes"] {
 }
 
 
-span.rm-page-ref[data-tag="Evergreens"] {
+span.rm-page-ref[data-tag="Linktree"] {
 	background: #0DBAC6;
 	color: #fff;
 }
@@ -311,7 +311,6 @@ span.rm-page-ref[data-tag="essay"] {
 	background: #ADCB2A;
 	color: #fff;
 }
-
 
 span.rm-page-ref[data-tag="racism"] {
 	background: #212121;
@@ -344,7 +343,6 @@ span.rm-page-ref[data-tag="wip"] {
 	background: #FC766F;
 	color: #fff;
 }
-
 
 span.rm-page-ref[data-tag="recipe"] {
 	background: #EE5F85;
