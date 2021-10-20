@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+@import url("https://rsms.me/inter/inter.css");
 
 body {
 	font-size: 14px;
@@ -10,7 +11,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'DM Sans' !important;
+	font-family: 'Inter' !important;
 }
 
 h1 {
@@ -22,7 +23,7 @@ h1 {
 }
 
 .rm-block-text {
-	font-family: 'DM Sans', sans-serif !important;
+	font-family: 'Inter', sans-serif !important;
 }
 
 textarea .rm-block-input .dont-unfocus-block .rm-block-text {
@@ -30,7 +31,7 @@ textarea .rm-block-input .dont-unfocus-block .rm-block-text {
 }
 
 .roam-block-container {
-	font-family: 'DM Sans', sans-serif;
+	font-family: 'Inter', sans-serif;
 	max-width: 1000px;
 }
 
@@ -275,7 +276,7 @@ span.rm-page-ref[data-tag] {
 	margin-left: 5px;
 	padding: 3px 8px;
 	line-height: 2em;
-	font-family: 'DM Sans', sans-serif;
+	font-family: 'Inter', sans-serif;
 	border-radius: 4px;
 }
 
